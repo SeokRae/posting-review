@@ -114,10 +114,10 @@ realworld는 개발자가 맨땅에 헤딩까진 하지 않아도 되게끔 가�
 
 ## 앞으로 작성할 내용들
 
-1. RealWorld를 구현하는데 도움을 주는 도구들이 어떤식으로 도움이 되는가?
-    1. Jacoco
-    2. SonarQube
-2. 아키텍처와 도메인 설계에 얼마나 주관을 갖고 있을까?
+1. [RealWorld를 구현하는데 도움을 주는 도구들이 어떤식으로 도움이 되는가?](_2_jacoco_n_sonarqube.md)
+    1. [Jacoco](_2_jacoco_n_sonarqube.md#jacoco)
+    2. [SonarQube](_2_jacoco_n_sonarqube.md#sonarcloud)
+2. [아키텍처와 도메인 설계에 얼마나 주관을 갖고 있을까?](_3_do_you_know_architecture.md)
 3. JWT 기반의 인증처리 구현하면서 느낀점
 4. Service, Controller 레이어에 대한 테스트 코드를 작성하는 방법
 5. 단위 테스트 vs 통합 테스트 & 인수테스트에 대한 개념 알고가기
